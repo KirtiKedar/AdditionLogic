@@ -7,4 +7,12 @@ int c=a+b;
 System.out.println("addition of a and b is="+c);
 return c;
 }
+//Imporatant Work
+public int Div(int a,int b)
+{
+int c=a/b;
+System.out.println("division of a and b is="+c);
+return c;
+}
+
 }
