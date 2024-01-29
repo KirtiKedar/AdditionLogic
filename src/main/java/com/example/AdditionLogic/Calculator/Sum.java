@@ -7,6 +7,7 @@ int c=a+b;
 System.out.println("addition of a and b is="+c);
 return c;
 }
+
 //Imporatant Work
 public int Div(int a,int b)
 {
@@ -14,5 +15,19 @@ int c=a/b;
 System.out.println("division of a and b is="+c);
 return c;
 }
+
+
+public int Sub(int a,int b)
+{
+	int c=a-b;
+	System.out.println("Substration is ="+c);
+	return c;
+	}
+public int Mul(int a,int b)
+{
+	int c=a*b;
+	System.out.println("Multiplication is ="+c);
+	return c;
+	}
 
 }
