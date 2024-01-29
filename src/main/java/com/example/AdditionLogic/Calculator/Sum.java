@@ -29,5 +29,17 @@ public int Mul(int a,int b)
 	System.out.println("Multiplication is ="+c);
 	return c;
 	}
+public int Mul1(int a,int b)
+{
+	int c=a*b;
+	System.out.println("Multiplication is ="+c);
+	return c;
+	}
+public int Mul2(int a,int b)
+{
+	int c=a*b;
+	System.out.println("Multiplication is ="+c);
+	return c;
+	}
 
 }
