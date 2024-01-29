@@ -30,4 +30,8 @@ public int Mul(int a,int b)
 	return c;
 	}
 
+public void Welcome()
+{
+System.out.println("welcome to git ......");
+}
 }
